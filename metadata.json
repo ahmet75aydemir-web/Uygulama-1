@@ -1,0 +1,6 @@
+{
+  "name": "Tatil Sayar",
+  "description": "Tüm resmi, dini, okul tatilleri ve özel tatillerinize kalan gün, saat, dakika ve saniyeyi canlı gösteren geri sayım uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
